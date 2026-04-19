@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Fraunces';
+    src: url('./assets/fonts/Fraunces-VariableFont_wght.ttf')
+---
