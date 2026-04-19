@@ -1,0 +1,3 @@
+-- No database tables needed for this static portfolio site.
+-- All content is hardcoded in React components.
+-- Contact form handled via Vercel serverless function using Resend API.
